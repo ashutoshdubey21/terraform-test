@@ -1,2 +1,2 @@
 # terraform-test
-Learning terraform From Scratch
+Learning terraform
